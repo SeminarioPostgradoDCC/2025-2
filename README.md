@@ -9,7 +9,7 @@
   
 ### Calendario del curso 
 
-|Fecha | Actividad | Evaluación |  
+|Fecha | Actividad | Ejercicio o Evaluación o Detalle presentación |  
 |------|-----------|------------|
 |08-Agosto | Presentación, Abstracts (ver carpeta) ||
 |15-Agosto | Feriado ||
