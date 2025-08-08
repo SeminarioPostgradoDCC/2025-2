@@ -19,7 +19,7 @@
 |12 - Septiembre | Cuerpo | Investigar - meditar - escribir |
 |19 - Septiembre | Feriado ||
 |26 - Septiembre | Motivacion II |Varios Ejercicios|
-|3 - Octubre | Sintesis Ejercicios||
+|3 - Octubre | Sintesis Ejercicios|Cierre primera mitad|
 |10 - Octubre | IA Generativa |  |
 |17 - Octubre | Presentacion / Charla | |
 |24 - Octubre | Presentacion / Charla | |
