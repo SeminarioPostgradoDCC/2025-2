@@ -10,7 +10,7 @@
 ### Calendario del curso 
 
 |Fecha | Actividad | Ejercicio o Evaluación o Detalle presentación |  
-|------|-----------|------------|
+|--------|-----------|------------|
 |08-Agosto | Presentación, Abstracts (ver carpeta) ||
 |15-Agosto | Feriado ||
 |22 - Agosto| Motivación I | Construir visión, reconocer pasado|
