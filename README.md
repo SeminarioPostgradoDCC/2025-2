@@ -1,4 +1,4 @@
-# Seminario de Postgrado Computacion  2025-1
+# Seminario de Postgrado Computacion  2025-2
 
 ### Como funciona el curso en breve
 - ASISTENCIA OBLIGATORIA! Si no van tienen que justificarse por correo.
