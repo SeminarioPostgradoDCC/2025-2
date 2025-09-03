@@ -15,16 +15,16 @@
 |15-Agosto | Feriado ||
 |22 - Agosto| Motivación I | Construir visión, reconocer pasado|
 |29 - Agosto | Planificación y Organización | Sacar Agenda|
-|5 - Septiembre | Bloqueo, mitos, miedos | Miedo al lector hostil |
-|12 - Septiembre | Cuerpo | Investigar - meditar - escribir |
+|5 - Septiembre | Explorar con un Plan | Cadena de Pensamiento |
+|12 - Septiembre | Bloqueo, mitos, miedos | Miedo al lector hostil |
 |19 - Septiembre | Feriado ||
-|26 - Septiembre | Motivacion II |Varios Ejercicios|
-|3 - Octubre | Sintesis Ejercicios|Cierre primera mitad|
-|10 - Octubre | IA Generativa |  |
-|17 - Octubre | Presentacion / Charla | |
+|26 - Septiembre | Cuerpo | Investigar - meditar - escribir |
+|3 - Octubre | Motivacion II |Varios Ejercicios|
+|10 - Octubre | Cierre + IA Generativa | Cierre primera mitad + IA Generativa |  
+|17 - Octubre | Presentacion / Charla | Entrega primera version del Abstract |
 |24 - Octubre | Presentacion / Charla | |
 |31 - Octubre | Feriado  | |
-|07 - Noviembre | Presentacion / Charla |  |
-|14 - Noviembre | Presentacion / Charla + Entrega de Abstract | |
-|21 - Noviembre | Presentacion / Charla ||
+|07 - Noviembre | Charla Invitada | Cristian Mateo, CONICET / ISISTAN, Argentina |
+|14 - Noviembre | Presentacion / Charla  | |
+|21 - Noviembre | Presentacion / Charla + Entrega final del Abstract ||
 |28 - Noviembre | Presentacion / Charla ||
