@@ -21,10 +21,10 @@
 |26 - Septiembre | Cuerpo | Investigar - meditar - escribir |
 |3 - Octubre | Motivacion II |Varios Ejercicios|
 |10 - Octubre | Cierre + IA Generativa | Cierre primera mitad + IA Generativa |  
-|17 - Octubre | Presentacion / Charla | Entrega primera version del Abstract |
-|24 - Octubre | Presentacion / Charla | |
+|17 - Octubre | Presentacion Seminario II + Entrega primera version del Abstract |  |
+|24 - Octubre | Presentacion Seminario II | Nicolás Araya |
 |31 - Octubre | Feriado  | |
 |07 - Noviembre | Charla Invitada | Cristian Mateo, CONICET / ISISTAN, Argentina |
-|14 - Noviembre | Presentacion / Charla  | |
-|21 - Noviembre | Presentacion / Charla + Entrega final del Abstract ||
-|28 - Noviembre | Presentacion / Charla ||
+|14 - Noviembre | Presentacion Seminario II | |
+|21 - Noviembre | Presentacion Seminario II + Entrega final del Abstract ||
+|28 - Noviembre | Presentacion Seminario II | Kevin Cespedes |
