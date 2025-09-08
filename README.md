@@ -25,6 +25,6 @@
 |24 - Octubre | Presentacion Seminario II | Nicolás Araya |
 |31 - Octubre | Feriado  | |
 |07 - Noviembre | Charla Invitada | Cristian Mateo, CONICET / ISISTAN, Argentina |
-|14 - Noviembre | Presentacion Seminario II | |
+|14 - Noviembre | Presentacion Seminario II | Diego Salinas |
 |21 - Noviembre | Presentacion Seminario II + Entrega final del Abstract ||
 |28 - Noviembre | Presentacion Seminario II | Kevin Cespedes |
